@@ -4,7 +4,7 @@ I'm Tyler from Canada, currently working on a computer science degree. I particu
 
 Skills: Python/Java/C#/Networks
 
-- 🔭 I’m currently working on My GitHub 
+- 🔭 I’m currently working on my GitHub profile
 - 🌱 I’m currently learning Basic web scraping 
 
 
