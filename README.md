@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Tyler from Canada, currently working on a computer science degree. I particularly enjoy projects that I can visually see the results of, so things like games, artificial intelligence and data science. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlancingJarl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **GlancingJarl/GlancingJarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
