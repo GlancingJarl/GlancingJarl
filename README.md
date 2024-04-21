@@ -2,7 +2,7 @@
 #### Developer and coder 
 I'm Tyler from Canada, currently working on a computer science degree. I particularly enjoy projects that I can visually see the results of, so things like games, artificial intelligence and data science. Currently working to transfer my projects onto git.
 
-Skills: Python/Java/C#/Networks
+Skills: Python/Java/C#/Networks/robotics/arduino
 
 - 🔭 I’m currently working on my GitHub profile
 - 🌱 I’m currently learning Basic web scraping 
