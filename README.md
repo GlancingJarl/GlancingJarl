@@ -1,21 +1,16 @@
-### Hi there 👋
+### Hi there 👋, My name is Tyler
+#### Developer and coder 
+I'm Tyler from Canada, currently working on a computer science degree. I particularly enjoy projects that I can visually see the results of, so things like games, artificial intelligence and data science. Currently working to transfer my projects onto git.
 
-I'm Tyler from Canada, currently working on a computer science degree. I particularly enjoy projects that I can visually see the results of, so things like games, artificial intelligence and data science. 
+Skills: Python/Java/C#/Networks
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlancingJarl)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on My GitHub 
+- 🌱 I’m currently learning Basic web scraping 
 
 
-<!--
-**GlancingJarl/GlancingJarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GlancingJarl)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlancingJarl)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GlancingJarl&show_icons=true)  
+
